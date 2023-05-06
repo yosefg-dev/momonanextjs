@@ -1,0 +1,11 @@
+.postcard{
+    display: flex;
+        flex-wrap: wrap;
+        flex-direction: row;
+        text-align: left;
+        max-width: 1500px;
+        background-color: #454242a3;
+        height: 100px;
+        width: 100%;
+        border-radius: 0 0 10px 10px;
+}
